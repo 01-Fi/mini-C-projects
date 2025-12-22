@@ -1,17 +1,26 @@
 # Mini C Projects
 
-This repository contains beginner-level mini projects written in C.
-These projects are helpful for learning basic programming concepts.
+This repository contains C programming mini projects designed to demonstrate
+core programming concepts and problem-solving techniques.
 
-## Projects Included
-1. Calculator using Switch Case
+## Topics Covered
+- Pointers
+- Functions
+- Loops and conditionals
+- Structures and unions
+- Recursion
+- Strings
+- File handling
+
+## Project List
+1. Calculator Using Pointers
 2. Number Guessing Game
 3. Student Record Management System
-4. String Utility Program
-5. Fibonacci Series Toolkit
+4. Recursion Toolkit
+5. Pointer-Based String Utilities
+6. Union vs Structure Comparison
 
-## How to Run
-- Compile using GCC
-- Example:
-  gcc calculator.c -o calculator
-  ./calculator
+## Compilation
+Use GCC to compile programs:
+gcc filename.c -o output
+./output
