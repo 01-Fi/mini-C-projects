@@ -17,7 +17,7 @@ core programming concepts and problem-solving techniques.
 2. Number Guessing Game
 3. Student Record Management System
 4. Recursion Toolkit
-5. Pointer-Based String Utilities
+5. String Utilities
 6. Union vs Structure Comparison
 
 ## Compilation
