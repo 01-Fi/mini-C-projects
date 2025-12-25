@@ -30,11 +30,23 @@ Student Record System
 2. Display Students
 0. Exit
 Enter choice: 1
-Enter Roll Number: 1
-Enter Name: Rahul
-Enter Marks: 85
+Enter Roll Number: 10
+Enter Name: lala
+Enter Marks: 45
 Student record added successfully.
 
+Student Record System
+1. Add Student
+2. Display Students
+0. Exit
 Enter choice: 2
+
 Roll    Name    Marks
-1       Rahul   85
+10      lala    45
+
+Student Record System
+1. Add Student
+2. Display Students
+0. Exit
+Enter choice: 0
+Exiting program.
